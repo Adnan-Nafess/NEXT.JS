@@ -1,7 +1,7 @@
 const setting = () => {
   return (
-    <div>Setting page</div>
+    <div className="text-red-900 text-5xl">Setting Pages</div>
   )
 }
 
-export default setting
+export default setting;
